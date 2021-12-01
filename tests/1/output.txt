@@ -1,0 +1,17 @@
+Sphere {
+	density: 1,
+	radius: 1,
+	square(): 12.566000
+}
+Tetrahedron {
+	density: 1,
+	edgeLength: 1,
+	square(): 1.732000
+}
+Parallelepiped {
+	density: 1
+	length: 1,
+	width: 1,
+	height: 1,
+	square(): 6.000000
+}

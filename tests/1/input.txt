@@ -1,0 +1,9 @@
+Sphere
+1 
+1
+Tetrahedron
+1 
+1 
+Parallelepiped
+1 
+1 1 1

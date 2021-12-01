@@ -1,0 +1,15 @@
+Sphere
+2 
+1000
+Tetrahedron
+1 
+100 
+Parallelepiped
+1 
+9 3 6
+Sphere
+10 
+1000
+Sphere
+10000
+10000
